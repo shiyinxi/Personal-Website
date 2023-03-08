@@ -21,6 +21,10 @@ h2 {
     font-size: 30px;
     font-weight: normal;
     padding-bottom: 10px;
+
+    /* margin-top: 100px;
+    margin-bottom: 100px; */
+
 }
 
 p {
@@ -69,6 +73,8 @@ a:hover {
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
+    /* margin-top: 200px; */
+
 }
 
 .programmer-img {
@@ -98,6 +104,7 @@ a:hover {
 .programmer {
     margin-bottom: 40px;
     margin-top: 40px;
+    height: 100px;
 }
 
 .skills {
